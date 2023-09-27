@@ -1,0 +1,29 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Apple pie",
+      "image": "apple-pie.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Strawberry pie",
+      "image": "strawberry.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Banana pie",
+      "image": "banana.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Orange pie",
+      "image": "orange.jpeg"
+    },
+    {
+      "name": "Punkake",
+      "image": "punkake.jpeg",
+      "id": 5
+    }
+  ]
+}
